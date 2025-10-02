@@ -1,0 +1,5 @@
+###AQUI VAN LOS ARCHIVOS QUE NO DEBEN SER TRACKEADOS
+
+imagenes/
+notrack.txt
+*.json
